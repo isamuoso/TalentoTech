@@ -1,0 +1,65 @@
+body{
+background-color: rgb(251, 254, 255);
+color: rgb(41, 38, 38);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+background-color: rgb(174, 126, 203);
+padding: 5px;
+text-align: center;
+font-weight: bold;
+}
+footer{
+    background-color: rgb(174, 126, 203);
+    color : rgb(39, 5, 67);
+padding: 5px;
+text-align: center;
+font-weight: bold;
+}
+
+nav a{
+    color: rgb(63, 28, 94);
+    margin: 0px 10px;
+    text-decoration: none;
+    }
+    h1, h2{
+    color: rgb(72, 4, 114);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    }
+    h1{
+        font-size: 2.5em;
+    }
+    form{
+        background-color: rgb(189, 165, 205);
+        text-align: center;
+        margin-bottom: 15px;
+        padding : 20px;
+        border-radius: 5px;
+        border: 1px solid rgb(63, 28, 94);
+    }
+    p{
+        font-size: 1.2em;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+    }
+    input, textarea{
+        margin: bottom 15px; ;
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid rgb(174, 126, 203);
+        width: 50%;
+    }
+    button{
+        background-color: rgb(63, 28, 94);
+        color : white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    button:hover{
+        background-color: rgb(146, 69, 193);
+        color : rgb(247, 247, 247);
+    }
+    
